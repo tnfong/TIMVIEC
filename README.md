@@ -1,4 +1,5 @@
-# TuCV
+#TimViec
+
 To install, use the command:
    ```
    npm install
